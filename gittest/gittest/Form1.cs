@@ -16,5 +16,11 @@ namespace gittest
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            y = "hoc win cham len";
+            X = " em cung xin lun";
+        }
     }
 }
